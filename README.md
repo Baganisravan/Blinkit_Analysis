@@ -2,13 +2,6 @@
 
 A comprehensive end-to-end data analysis project focused on Blinkit data using Python and Power BI to analyze sales performance, customer preferences, outlet efficiency, and product category trends. The project delivers actionable business insights through data cleaning, exploratory data analysis, KPI tracking, and interactive dashboard development.
 
-# 📊 Blinkit Sales Analysis Dashboard</h1>
-
-A comprehensive end-to-end data analysis project focused on Blinkit data using Python and Power BI to analyze sales performance, customer preferences, outlet efficiency, and product category trends.
-
-
----
-
 # 📂 Dataset Used
 
 * Blinkit_Data.csv
